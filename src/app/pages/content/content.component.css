@@ -1,0 +1,24 @@
+hr{
+  margin-top: 10px;
+  border-color: grey;
+}
+.container_content{
+  margin-top: 20px;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content_cover > img{
+  border: 5px solid rgb(104, 103, 103);
+  border-radius: 1rem;
+  width: 500px;
+  min-width: 500px;
+  height: 350px;
+}
+.content_description > p{
+  margin-top: 10px;
+  color: grey;
+}

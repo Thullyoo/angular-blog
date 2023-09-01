@@ -6,3 +6,10 @@
 .container_menu_bar > ul > li{
   margin-right: 10px;
 }
+.container_menu_bar > ul > li > a > img{
+  width: 3rem;
+  height: 40px;
+}
+.githubimg{
+  width: 50px;
+}
